@@ -9,3 +9,21 @@
 
 }
 
+.swiper-slide img {
+    width: 100%;
+}
+
+.swiper-button-prev
+.swiper-button-next {
+    display: none;
+}
+
+.swiper-pagination{
+ poiition: initial
+ margin: .5em 0
+}
+
+.card-descrição {
+    display: flex;
+    justify-content: space-between;
+}
